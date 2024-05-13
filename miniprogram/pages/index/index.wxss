@@ -1,0 +1,17 @@
+.cover {
+  background-color: aliceblue;
+  text-align: center;
+  padding: 80rpx;
+}
+
+.logo {
+  width: 600rpx;
+  height: 800rpx;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 44rpx;
+  color: #333;
+  margin: 50rpx 32rpx;
+}
