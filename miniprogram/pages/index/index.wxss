@@ -1,17 +1,33 @@
 .cover {
-  background-color: aliceblue;
   text-align: center;
-  padding: 80rpx;
+  padding: 60rpx;
 }
 
-.logo {
-  width: 600rpx;
-  height: 800rpx;
+.profile-photo {
+  width: 200rpx;
+  height: 200rpx;
 }
 
 .title {
-  font-weight: 500;
-  font-size: 44rpx;
-  color: #333;
-  margin: 50rpx 32rpx;
+  font-size: 36rpx;
+}
+
+.input {
+  margin: 30rpx auto;
+  border-bottom: 1rpx solid #ccc;
+  padding: 5rpx 0;
+  width: 100%;
+  font-size: 32rpx;
+}
+
+.section {
+  margin: 40rpx 0 80rpx;
+}
+
+.body {
+  margin: 40rpx;
+}
+
+.mg {
+  margin: 30rpx 0;
 }
